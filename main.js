@@ -4,10 +4,6 @@ import "./style.css";
 // import threejs
 import * as THREE from "three";
 
-// import shaders
-// import fragment from "./shaders/fragment.glsl";
-// import vertex from "./shaders/vertex.glsl";
-
 // orbit controls
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 
